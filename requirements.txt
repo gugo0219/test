@@ -1,4 +1,4 @@
-Django==2.1.11
+Django==2.2.7
 pysqlite3==0.4.1
 pytz==2019.3
 sqlparse==0.3.0
